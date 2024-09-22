@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+/*Programme qui permet de demander un nombre entier à l’utilisateur, et l’informe ensuite si ce nombre est positif ou négatif.*/
 int main()  {
     float A,B;
 
